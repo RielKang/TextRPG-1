@@ -9,6 +9,7 @@ namespace TextRPG.Class.Database.Dungeon
 {
     internal class BeginnerDungeon : IDungeon
     {
+
     }
 
 }

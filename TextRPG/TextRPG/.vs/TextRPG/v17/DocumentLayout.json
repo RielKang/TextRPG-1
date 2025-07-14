@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\git\\TextRPG\\TextRPG\\TextRPG\\TextRPG\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4521A73A-2341-4042-A387-8B8D14543675}|TextRPG\\TextRPG.csproj|d:\\git\\textrpg\\textrpg\\textrpg\\textrpg\\textrpg\\class\\database\\player\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4521A73A-2341-4042-A387-8B8D14543675}|TextRPG\\TextRPG.csproj|solutionrelative:textrpg\\class\\database\\player\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4521A73A-2341-4042-A387-8B8D14543675}|TextRPG\\TextRPG.csproj|d:\\git\\textrpg\\textrpg\\textrpg\\textrpg\\textrpg\\class\\database\\dungeon\\beginnerdungeon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4521A73A-2341-4042-A387-8B8D14543675}|TextRPG\\TextRPG.csproj|solutionrelative:textrpg\\class\\database\\dungeon\\beginnerdungeon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4521A73A-2341-4042-A387-8B8D14543675}|TextRPG\\TextRPG.csproj|d:\\git\\textrpg\\textrpg\\textrpg\\textrpg\\textrpg\\class\\database\\player\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4521A73A-2341-4042-A387-8B8D14543675}|TextRPG\\TextRPG.csproj|solutionrelative:textrpg\\class\\database\\player\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4521A73A-2341-4042-A387-8B8D14543675}|TextRPG\\TextRPG.csproj|d:\\git\\textrpg\\textrpg\\textrpg\\textrpg\\textrpg\\class\\default\\defaultcharacter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -54,11 +54,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Player.cs",
               "DocumentMoniker": "D:\\git\\TextRPG\\TextRPG\\TextRPG\\TextRPG\\TextRPG\\Class\\Database\\Player\\Player.cs",
               "RelativeDocumentMoniker": "TextRPG\\Class\\Database\\Player\\Player.cs",
@@ -71,15 +71,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "BeginnerDungeon.cs",
               "DocumentMoniker": "D:\\git\\TextRPG\\TextRPG\\TextRPG\\TextRPG\\TextRPG\\Class\\Database\\Dungeon\\BeginnerDungeon.cs",
               "RelativeDocumentMoniker": "TextRPG\\Class\\Database\\Dungeon\\BeginnerDungeon.cs",
               "ToolTip": "D:\\git\\TextRPG\\TextRPG\\TextRPG\\TextRPG\\TextRPG\\Class\\Database\\Dungeon\\BeginnerDungeon.cs",
               "RelativeToolTip": "TextRPG\\Class\\Database\\Dungeon\\BeginnerDungeon.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-14T02:58:50.5Z"
+              "WhenOpened": "2025-07-14T02:58:50.5Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
