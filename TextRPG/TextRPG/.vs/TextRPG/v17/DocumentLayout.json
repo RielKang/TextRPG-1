@@ -64,7 +64,7 @@
               "RelativeDocumentMoniker": "TextRPG\\Class\\Database\\Player\\Player.cs",
               "ToolTip": "D:\\git\\TextRPG\\TextRPG\\TextRPG\\TextRPG\\TextRPG\\Class\\Database\\Player\\Player.cs",
               "RelativeToolTip": "TextRPG\\Class\\Database\\Player\\Player.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-14T03:01:43.374Z",
               "EditorCaption": ""
@@ -79,8 +79,7 @@
               "RelativeToolTip": "TextRPG\\Class\\Database\\Dungeon\\BeginnerDungeon.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-14T02:58:50.5Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-14T02:58:50.5Z"
             },
             {
               "$type": "Document",
@@ -92,8 +91,7 @@
               "RelativeToolTip": "TextRPG\\Class\\Interface\\IDungeon.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-14T02:58:12.049Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-14T02:58:12.049Z"
             },
             {
               "$type": "Document",
@@ -105,8 +103,7 @@
               "RelativeToolTip": "TextRPG\\Class\\Database\\Item\\Apple.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-14T02:57:03.583Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-14T02:57:03.583Z"
             },
             {
               "$type": "Document",
@@ -118,8 +115,7 @@
               "RelativeToolTip": "TextRPG\\Class\\Default\\DefaultCharacter.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-14T02:55:55.977Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-14T02:55:55.977Z"
             },
             {
               "$type": "Document",
@@ -131,8 +127,7 @@
               "RelativeToolTip": "TextRPG\\Class\\Database\\Monster\\Bear.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-14T02:55:09.802Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-14T02:55:09.802Z"
             },
             {
               "$type": "Document",
@@ -144,8 +139,7 @@
               "RelativeToolTip": "TextRPG\\Class\\Database\\Monster\\Rabbit.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-14T02:50:06.889Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-14T02:50:06.889Z"
             },
             {
               "$type": "Document",
@@ -157,8 +151,7 @@
               "RelativeToolTip": "TextRPG\\Class\\Interface\\IPlayerData.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-14T02:49:09.155Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-14T02:49:09.155Z"
             },
             {
               "$type": "Document",
@@ -170,8 +163,7 @@
               "RelativeToolTip": "TextRPG\\Class\\Manager\\GameManager.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-14T02:47:32.696Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-14T02:47:32.696Z"
             },
             {
               "$type": "Document",
@@ -183,8 +175,7 @@
               "RelativeToolTip": "TextRPG\\Class\\Default\\DefaultItem.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-14T02:39:59.737Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-14T02:39:59.737Z"
             },
             {
               "$type": "Document",
@@ -196,8 +187,7 @@
               "RelativeToolTip": "TextRPG\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-14T02:32:47.92Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-14T02:32:47.92Z"
             }
           ]
         }

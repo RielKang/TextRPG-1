@@ -9,5 +9,6 @@ namespace TextRPG.Class.Database.Player
 {
     internal class Player : IPlayerData
     {
+
     }
 }
