@@ -8,5 +8,6 @@ namespace TextRPG.Class.Data
 {
     internal abstract class DefaultItem
     {
+        //ff
     }
 }
