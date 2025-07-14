@@ -1,6 +1,6 @@
 ---
 name: "[feat]"
-about: Suggest an idea for this project
+about: 개발할 내용을 작성해주세요.
 title: "[feat]"
 labels: feature
 assignees: ''
