@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace TextRPG.Class.Default
 {
-    internal class DefaultScene
+    internal abstract class DefaultScene
     {
     }
 }

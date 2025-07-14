@@ -7,6 +7,14 @@
       "RelativeMoniker": "D:0:0:{4521A73A-2341-4042-A387-8B8D14543675}|TextRPG\\TextRPG.csproj|solutionrelative:textrpg\\class\\default\\defaultscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{4521A73A-2341-4042-A387-8B8D14543675}|TextRPG\\TextRPG.csproj|d:\\git\\textrpg\\textrpg\\textrpg\\textrpg\\textrpg\\class\\default\\defaultitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4521A73A-2341-4042-A387-8B8D14543675}|TextRPG\\TextRPG.csproj|solutionrelative:textrpg\\class\\default\\defaultitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4521A73A-2341-4042-A387-8B8D14543675}|TextRPG\\TextRPG.csproj|d:\\git\\textrpg\\textrpg\\textrpg\\textrpg\\textrpg\\class\\default\\defaultcharacter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4521A73A-2341-4042-A387-8B8D14543675}|TextRPG\\TextRPG.csproj|solutionrelative:textrpg\\class\\default\\defaultcharacter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4521A73A-2341-4042-A387-8B8D14543675}|TextRPG\\TextRPG.csproj|d:\\git\\textrpg\\textrpg\\textrpg\\textrpg\\textrpg\\class\\scene\\mainscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4521A73A-2341-4042-A387-8B8D14543675}|TextRPG\\TextRPG.csproj|solutionrelative:textrpg\\class\\scene\\mainscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -17,10 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{4521A73A-2341-4042-A387-8B8D14543675}|TextRPG\\TextRPG.csproj|d:\\git\\textrpg\\textrpg\\textrpg\\textrpg\\textrpg\\class\\database\\player\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4521A73A-2341-4042-A387-8B8D14543675}|TextRPG\\TextRPG.csproj|solutionrelative:textrpg\\class\\database\\player\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4521A73A-2341-4042-A387-8B8D14543675}|TextRPG\\TextRPG.csproj|d:\\git\\textrpg\\textrpg\\textrpg\\textrpg\\textrpg\\class\\default\\defaultcharacter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4521A73A-2341-4042-A387-8B8D14543675}|TextRPG\\TextRPG.csproj|solutionrelative:textrpg\\class\\default\\defaultcharacter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4521A73A-2341-4042-A387-8B8D14543675}|TextRPG\\TextRPG.csproj|d:\\git\\textrpg\\textrpg\\textrpg\\textrpg\\textrpg\\class\\interface\\idungeon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -47,10 +51,6 @@
       "RelativeMoniker": "D:0:0:{4521A73A-2341-4042-A387-8B8D14543675}|TextRPG\\TextRPG.csproj|solutionrelative:textrpg\\class\\interface\\iplayerdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4521A73A-2341-4042-A387-8B8D14543675}|TextRPG\\TextRPG.csproj|d:\\git\\textrpg\\textrpg\\textrpg\\textrpg\\textrpg\\class\\default\\defaultitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4521A73A-2341-4042-A387-8B8D14543675}|TextRPG\\TextRPG.csproj|solutionrelative:textrpg\\class\\default\\defaultitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4521A73A-2341-4042-A387-8B8D14543675}|TextRPG\\TextRPG.csproj|d:\\git\\textrpg\\textrpg\\textrpg\\textrpg\\textrpg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4521A73A-2341-4042-A387-8B8D14543675}|TextRPG\\TextRPG.csproj|solutionrelative:textrpg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -72,14 +72,14 @@
               "RelativeDocumentMoniker": "TextRPG\\Class\\Default\\DefaultScene.cs",
               "ToolTip": "D:\\git\\TextRPG\\TextRPG\\TextRPG\\TextRPG\\TextRPG\\Class\\Default\\DefaultScene.cs",
               "RelativeToolTip": "TextRPG\\Class\\Default\\DefaultScene.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-14T05:17:13.16Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "MainScene.cs",
               "DocumentMoniker": "D:\\git\\TextRPG\\TextRPG\\TextRPG\\TextRPG\\TextRPG\\Class\\Scene\\MainScene.cs",
               "RelativeDocumentMoniker": "TextRPG\\Class\\Scene\\MainScene.cs",
@@ -87,12 +87,11 @@
               "RelativeToolTip": "TextRPG\\Class\\Scene\\MainScene.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-14T05:16:45.707Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-14T05:16:45.707Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Player.cs",
               "DocumentMoniker": "D:\\git\\TextRPG\\TextRPG\\TextRPG\\TextRPG\\TextRPG\\Class\\Database\\Player\\Player.cs",
               "RelativeDocumentMoniker": "TextRPG\\Class\\Database\\Player\\Player.cs",
@@ -104,7 +103,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "BeginnerDungeon.cs",
               "DocumentMoniker": "D:\\git\\TextRPG\\TextRPG\\TextRPG\\TextRPG\\TextRPG\\Class\\Database\\Dungeon\\BeginnerDungeon.cs",
               "RelativeDocumentMoniker": "TextRPG\\Class\\Database\\Dungeon\\BeginnerDungeon.cs",
@@ -112,12 +111,11 @@
               "RelativeToolTip": "TextRPG\\Class\\Database\\Dungeon\\BeginnerDungeon.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-14T02:58:50.5Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-14T02:58:50.5Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "IDungeon.cs",
               "DocumentMoniker": "D:\\git\\TextRPG\\TextRPG\\TextRPG\\TextRPG\\TextRPG\\Class\\Interface\\IDungeon.cs",
               "RelativeDocumentMoniker": "TextRPG\\Class\\Interface\\IDungeon.cs",
@@ -129,7 +127,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Apple.cs",
               "DocumentMoniker": "D:\\git\\TextRPG\\TextRPG\\TextRPG\\TextRPG\\TextRPG\\Class\\Database\\Item\\Apple.cs",
               "RelativeDocumentMoniker": "TextRPG\\Class\\Database\\Item\\Apple.cs",
@@ -141,19 +139,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "DefaultCharacter.cs",
               "DocumentMoniker": "D:\\git\\TextRPG\\TextRPG\\TextRPG\\TextRPG\\TextRPG\\Class\\Default\\DefaultCharacter.cs",
               "RelativeDocumentMoniker": "TextRPG\\Class\\Default\\DefaultCharacter.cs",
               "ToolTip": "D:\\git\\TextRPG\\TextRPG\\TextRPG\\TextRPG\\TextRPG\\Class\\Default\\DefaultCharacter.cs",
               "RelativeToolTip": "TextRPG\\Class\\Default\\DefaultCharacter.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-14T02:55:55.977Z"
+              "WhenOpened": "2025-07-14T02:55:55.977Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Bear.cs",
               "DocumentMoniker": "D:\\git\\TextRPG\\TextRPG\\TextRPG\\TextRPG\\TextRPG\\Class\\Database\\Monster\\Bear.cs",
               "RelativeDocumentMoniker": "TextRPG\\Class\\Database\\Monster\\Bear.cs",
@@ -165,7 +164,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Rabbit.cs",
               "DocumentMoniker": "D:\\git\\TextRPG\\TextRPG\\TextRPG\\TextRPG\\TextRPG\\Class\\Database\\Monster\\Rabbit.cs",
               "RelativeDocumentMoniker": "TextRPG\\Class\\Database\\Monster\\Rabbit.cs",
@@ -177,7 +176,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "IPlayerData.cs",
               "DocumentMoniker": "D:\\git\\TextRPG\\TextRPG\\TextRPG\\TextRPG\\TextRPG\\Class\\Interface\\IPlayerData.cs",
               "RelativeDocumentMoniker": "TextRPG\\Class\\Interface\\IPlayerData.cs",
@@ -189,7 +188,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "GameManager.cs",
               "DocumentMoniker": "D:\\git\\TextRPG\\TextRPG\\TextRPG\\TextRPG\\TextRPG\\Class\\Manager\\GameManager.cs",
               "RelativeDocumentMoniker": "TextRPG\\Class\\Manager\\GameManager.cs",
@@ -201,15 +200,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 1,
               "Title": "DefaultItem.cs",
               "DocumentMoniker": "D:\\git\\TextRPG\\TextRPG\\TextRPG\\TextRPG\\TextRPG\\Class\\Default\\DefaultItem.cs",
               "RelativeDocumentMoniker": "TextRPG\\Class\\Default\\DefaultItem.cs",
               "ToolTip": "D:\\git\\TextRPG\\TextRPG\\TextRPG\\TextRPG\\TextRPG\\Class\\Default\\DefaultItem.cs",
               "RelativeToolTip": "TextRPG\\Class\\Default\\DefaultItem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-14T02:39:59.737Z"
+              "WhenOpened": "2025-07-14T02:39:59.737Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",

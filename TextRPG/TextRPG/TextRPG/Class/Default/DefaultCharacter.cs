@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace TextRPG.Class.Data
 {
-    internal class DefaultCharacter
+    internal abstract class DefaultCharacter
     {
     }
 }
