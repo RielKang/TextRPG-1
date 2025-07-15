@@ -10,31 +10,21 @@ namespace TextRPG.Class.Database.Item
 {
     internal class ItemDatabaseList 
     {
-        public static List<DefaultItem.Weapon> Weapons { get; } = new ()
+        public static List<DefaultItem> DefaultItems { get; } = new ()
         {
-            new DefaultItem.Weapon("w1", "Wooden Sword", 0, 5, 10, "Wooden Sword"),
-            new DefaultItem.Weapon("w2", "Iron Sword", 0, 10, 20, "Iron Sword"),
-            new DefaultItem.Weapon("w3", "Steel Sword", 0, 15, 30, "Steel Sword"),
-           
-            
-        };
-        public static List<DefaultItem.Armor> Armors { get; } = new()
-        {
-            
-            new DefaultItem.Armor("a1", "Mage Robe", 20, 0, 50, "Mage Robe"),
-            new DefaultItem.Armor("a2", "Leather Armor", 5, 0, 10, "Leather Armor"),
-            new DefaultItem.Armor("a3", "Iron Armor", 10, 0, 20, "Iron Armor"),
-            new DefaultItem.Armor("a4", "Steel Armor", 15, 0, 30, "Steel Armor"),
-        };
+            new DefaultItem.Item(1, "초보자의 갑옷", "초보자의 허술한 가죽갑옷이다.", 5, 0, 100),
+            new DefaultItem.Item(2, "초보자의 철검", "초보자의 조잡한 철검이다.", 0, 5, 150),
+            new DefaultItem.Item(3, "강철검", "강철로 만든 썩 훌륭한 검이다.", 10, 0, 200),
+            new DefaultItem.Item(4, "강철갑옷", "강철로 만든 썩 훌륭한 갑옷이다.", 0, 10, 250),
 
-        public static DefaultItem? GetWeaponById(string weaponId)
+
+        };
+        
+        public static DefaultItem? GetDefaultItemById(int Id)
         {
-            return Weapons.Find(item => item.Id == weaponId);
+            return DefaultItems.Find(item => item.Id == Id);
         }
-        public static DefaultItem? GetArmorById(string armorId)
-        {
-            return Armors.Find(item => item.Id == armorId);
-        }
+       
         
 
     }

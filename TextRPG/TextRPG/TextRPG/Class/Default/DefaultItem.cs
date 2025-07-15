@@ -8,37 +8,55 @@ namespace TextRPG.Class.Data
 {
     internal abstract class DefaultItem
     {
-        public string Id { get; set; }
+        public int Id { get; }
         public string Name { get; }
-        public int PlusArmorPoint { get; }
+        public string Description { get; }
         public int PlusStr { get; }
-        public int Gold { get; }
-        public string DropItem { get; }
+        public int PlusArmorPoint { get; }
 
-        protected DefaultItem(string _id, string _name, int _plusArmorPoint, int _plusStr, int _gold, string _dropItem)
+        public int Gold { get; }
+       
+        
+
+        protected DefaultItem(int _id, string _name, string _description, int _plusStr, int _plusArmorPoint,  int _gold)
         {
             Id = _id;
             Name = _name;
-            PlusArmorPoint = _plusArmorPoint;
+            Description = _description;
             PlusStr = _plusStr;
+            PlusArmorPoint = _plusArmorPoint;
+            
             Gold = _gold;
-            DropItem = _dropItem;
-        }
 
-        public class Weapon : DefaultItem
+            
+        }
+        public class Item : DefaultItem
         {
-            public Weapon(string _id, string _name, int _plusArmorPoint, int _plusStr, int _gold, string _dropItem)
-                : base(_id, _name, _plusArmorPoint, _plusStr, _gold, _dropItem)
+
+            public Item(int _id, string _name, string _description, int _plusStr, int _plusArmorPoint, int _gold)
+                : base(_id, _name, _description, _plusStr, _plusArmorPoint, _gold)
             {
+
             }
         }
-        public class Armor : DefaultItem
-        {
-            public Armor(string _id, string _name, int _plusArmorPoint, int _plusStr, int _gold, string _dropItem)
-                : base(_id, _name, _plusArmorPoint, _plusStr, _gold, _dropItem)
-            {
-            }
-        }
+        //public class Weapon : DefaultItem
+        //{
+
+        //    public Weapon(int _id, string _name, string _description, int _plusStr, int _plusArmorPoint, int _gold)
+        //        : base(_id, _name, _description,_plusStr, _plusArmorPoint, _gold)
+        //    {
+
+        //    }
+        //}
+        //public class Armor : DefaultItem
+        //{
+
+        //    public Armor( _id, string _name, string _description, int _plusStr,int _plusArmorPoint, int _gold)
+        //        : base(_id, _name, _description,_gold, _plusStr, _plusArmorPoint )
+        //    {
+
+        //    }
+        //}
 
     }
 }

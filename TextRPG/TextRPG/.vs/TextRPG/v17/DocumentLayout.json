@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "D:\\\uC2A4\uD30C\uB974\uD0C0 \uC720\uB2C8\uD2F0 11\uAE30\\18\uC870\\TextRPG\\TextRPG\\TextRPG\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4521A73A-2341-4042-A387-8B8D14543675}|TextRPG\\TextRPG.csproj|d:\\\uC2A4\uD30C\uB974\uD0C0 \uC720\uB2C8\uD2F0 11\uAE30\\18\uC870\\textrpg\\textrpg\\textrpg\\textrpg\\class\\default\\defaultitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4521A73A-2341-4042-A387-8B8D14543675}|TextRPG\\TextRPG.csproj|solutionrelative:textrpg\\class\\default\\defaultitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4521A73A-2341-4042-A387-8B8D14543675}|TextRPG\\TextRPG.csproj|d:\\\uC2A4\uD30C\uB974\uD0C0 \uC720\uB2C8\uD2F0 11\uAE30\\18\uC870\\textrpg\\textrpg\\textrpg\\textrpg\\class\\database\\item\\itemadatabaselist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4521A73A-2341-4042-A387-8B8D14543675}|TextRPG\\TextRPG.csproj|solutionrelative:textrpg\\class\\database\\item\\itemadatabaselist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4521A73A-2341-4042-A387-8B8D14543675}|TextRPG\\TextRPG.csproj|d:\\\uC2A4\uD30C\uB974\uD0C0 \uC720\uB2C8\uD2F0 11\uAE30\\18\uC870\\textrpg\\textrpg\\textrpg\\textrpg\\class\\default\\defaultitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4521A73A-2341-4042-A387-8B8D14543675}|TextRPG\\TextRPG.csproj|solutionrelative:textrpg\\class\\default\\defaultitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4521A73A-2341-4042-A387-8B8D14543675}|TextRPG\\TextRPG.csproj|d:\\\uC2A4\uD30C\uB974\uD0C0 \uC720\uB2C8\uD2F0 11\uAE30\\18\uC870\\textrpg\\textrpg\\textrpg\\textrpg\\class\\default\\defaultcharacter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4521A73A-2341-4042-A387-8B8D14543675}|TextRPG\\TextRPG.csproj|solutionrelative:textrpg\\class\\default\\defaultcharacter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4521A73A-2341-4042-A387-8B8D14543675}|TextRPG\\TextRPG.csproj|d:\\\uC2A4\uD30C\uB974\uD0C0 \uC720\uB2C8\uD2F0 11\uAE30\\18\uC870\\textrpg\\textrpg\\textrpg\\textrpg\\class\\default\\defaultscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -17,10 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{4521A73A-2341-4042-A387-8B8D14543675}|TextRPG\\TextRPG.csproj|d:\\\uC2A4\uD30C\uB974\uD0C0 \uC720\uB2C8\uD2F0 11\uAE30\\18\uC870\\textrpg\\textrpg\\textrpg\\textrpg\\class\\database\\dungeon\\beginnerdungeon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4521A73A-2341-4042-A387-8B8D14543675}|TextRPG\\TextRPG.csproj|solutionrelative:textrpg\\class\\database\\dungeon\\beginnerdungeon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4521A73A-2341-4042-A387-8B8D14543675}|TextRPG\\TextRPG.csproj|d:\\\uC2A4\uD30C\uB974\uD0C0 \uC720\uB2C8\uD2F0 11\uAE30\\18\uC870\\textrpg\\textrpg\\textrpg\\textrpg\\class\\default\\defaultcharacter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4521A73A-2341-4042-A387-8B8D14543675}|TextRPG\\TextRPG.csproj|solutionrelative:textrpg\\class\\default\\defaultcharacter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4521A73A-2341-4042-A387-8B8D14543675}|TextRPG\\TextRPG.csproj|d:\\\uC2A4\uD30C\uB974\uD0C0 \uC720\uB2C8\uD2F0 11\uAE30\\18\uC870\\textrpg\\textrpg\\textrpg\\textrpg\\class\\scene\\mainscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -62,37 +62,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "ItemaDatabaseList.cs",
               "DocumentMoniker": "D:\\\uC2A4\uD30C\uB974\uD0C0 \uC720\uB2C8\uD2F0 11\uAE30\\18\uC870\\TextRPG\\TextRPG\\TextRPG\\TextRPG\\Class\\Database\\Item\\ItemaDatabaseList.cs",
               "RelativeDocumentMoniker": "TextRPG\\Class\\Database\\Item\\ItemaDatabaseList.cs",
               "ToolTip": "D:\\\uC2A4\uD30C\uB974\uD0C0 \uC720\uB2C8\uD2F0 11\uAE30\\18\uC870\\TextRPG\\TextRPG\\TextRPG\\TextRPG\\Class\\Database\\Item\\ItemaDatabaseList.cs",
               "RelativeToolTip": "TextRPG\\Class\\Database\\Item\\ItemaDatabaseList.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-14T11:03:24.467Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "DefaultItem.cs",
               "DocumentMoniker": "D:\\\uC2A4\uD30C\uB974\uD0C0 \uC720\uB2C8\uD2F0 11\uAE30\\18\uC870\\TextRPG\\TextRPG\\TextRPG\\TextRPG\\Class\\Default\\DefaultItem.cs",
               "RelativeDocumentMoniker": "TextRPG\\Class\\Default\\DefaultItem.cs",
               "ToolTip": "D:\\\uC2A4\uD30C\uB974\uD0C0 \uC720\uB2C8\uD2F0 11\uAE30\\18\uC870\\TextRPG\\TextRPG\\TextRPG\\TextRPG\\Class\\Default\\DefaultItem.cs",
               "RelativeToolTip": "TextRPG\\Class\\Default\\DefaultItem.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAgwCoAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAcwCsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-14T02:39:59.737Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "DefaultScene.cs",
               "DocumentMoniker": "D:\\\uC2A4\uD30C\uB974\uD0C0 \uC720\uB2C8\uD2F0 11\uAE30\\18\uC870\\TextRPG\\TextRPG\\TextRPG\\TextRPG\\Class\\Default\\DefaultScene.cs",
               "RelativeDocumentMoniker": "TextRPG\\Class\\Default\\DefaultScene.cs",
@@ -100,12 +100,11 @@
               "RelativeToolTip": "TextRPG\\Class\\Default\\DefaultScene.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-14T05:17:13.16Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-14T05:17:13.16Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "BeginnerDungeon.cs",
               "DocumentMoniker": "D:\\\uC2A4\uD30C\uB974\uD0C0 \uC720\uB2C8\uD2F0 11\uAE30\\18\uC870\\TextRPG\\TextRPG\\TextRPG\\TextRPG\\Class\\Database\\Dungeon\\BeginnerDungeon.cs",
               "RelativeDocumentMoniker": "TextRPG\\Class\\Database\\Dungeon\\BeginnerDungeon.cs",
@@ -113,8 +112,7 @@
               "RelativeToolTip": "TextRPG\\Class\\Database\\Dungeon\\BeginnerDungeon.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-14T02:58:50.5Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-14T02:58:50.5Z"
             },
             {
               "$type": "Document",
@@ -154,7 +152,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "DefaultCharacter.cs",
               "DocumentMoniker": "D:\\\uC2A4\uD30C\uB974\uD0C0 \uC720\uB2C8\uD2F0 11\uAE30\\18\uC870\\TextRPG\\TextRPG\\TextRPG\\TextRPG\\Class\\Default\\DefaultCharacter.cs",
               "RelativeDocumentMoniker": "TextRPG\\Class\\Default\\DefaultCharacter.cs",
@@ -162,7 +160,8 @@
               "RelativeToolTip": "TextRPG\\Class\\Default\\DefaultCharacter.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-14T02:55:55.977Z"
+              "WhenOpened": "2025-07-14T02:55:55.977Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
